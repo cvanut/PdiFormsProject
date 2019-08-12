@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.forms.CreateFormsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-20T17:25:21" hostname="MacBook-Pro-de-Cleyton.local" time="8.046">
+  <properties/>
+  <testcase name="createNewForm" classname="tests.forms.CreateFormsTest" time="8.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.39.562713 (dd642283e958a93ebf6891600db055f1f1b4f3b2) on port 29323
+Only local connections are allowed.
+Sep 20, 2018 2:25:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
